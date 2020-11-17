@@ -1,1 +1,3 @@
-# mnist_imbalance final proj csce 421
+# data for final project CSCE 421
+# data comes from MNIST :)
+
